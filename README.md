@@ -1,4 +1,4 @@
-#random-password
+# random-password
 
 This is a simple password generator written in python.
 
