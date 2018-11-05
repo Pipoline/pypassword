@@ -2,6 +2,8 @@
 
 This is a simple password generator written in python.
 
+[![Build Status](https://travis-ci.org/Pipoline/random-password.svg?branch=master)](https://travis-ci.org/Pipoline/random-password)
+
 ## Usage
 
 Basic usage:
