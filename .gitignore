@@ -110,3 +110,4 @@ venv.bak/
 .idea/modules.xml
 .idea/random-password.iml
 .idea/workspace.xml
+.idea/
