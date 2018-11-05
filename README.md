@@ -18,8 +18,9 @@ optional arguments:
   -s SIZE, --size SIZE  Random string size
   -x                    When set, use special characters
 ```
-
-
+  
+ Get random password with default size(14):
+ 
 `docker run --rm pipoline/random-password`  
 output:  
 `a8xlHjNEQ1sLFj`
