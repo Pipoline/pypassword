@@ -6,9 +6,13 @@ python:
 
 install:
   - pip install -r requirements.txt
+  - pip install --upgrade pytest
 
 script:
-  py.test tests
+  - py.test  --cov-report term --cov=pypassword tests
+
+after_success:
+    - codecov
 
 
 deploy:

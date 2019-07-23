@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pypassword",
-    version="0.0.4",
+    version="0.1.0",
     author="Peter Gonda",
     author_email="peter@pipoline.com",
     description="Simple password generator module",
