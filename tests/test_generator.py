@@ -1,9 +1,10 @@
-from pypassword.pypassword import password_generator
+import unittest
+from pypassword.pypassword import generate
 
 
-class test_simple_password:
-    password = password_generator()
-
-
+class GenerateSimplePasswordCase(unittest.TestCase):
+    password = generate()
+    
+    
 class test_special_password:
-    password = password_generator(special=True)
+    password = generate(special=True)

@@ -3,9 +3,9 @@ import random
 import argparse
 
 
-def password_generator(size=6,
-                       chars=string.ascii_letters + string.digits,
-                       special=False):
+def generate(size=12,
+             chars=string.ascii_letters + string.digits,
+             special=False):
     """
     Generate password
     :param size: Size is number of chars
@@ -28,5 +28,5 @@ if __name__ == "__main__":
     if args.size:
         size = args.size
 
-    print(password_generator(size=size,
-                             special=args.x))
+    print(generate(size=size,
+                   special=args.x))
