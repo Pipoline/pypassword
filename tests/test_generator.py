@@ -1,7 +1,7 @@
 import unittest
-from pypassword.pypassword import password_generator
+from pypassword.pypassword import generate
 
 
 class GenerateSimplePasswordCase(unittest.TestCase):
-    password = password_generator()
+    password = generate()
 
