@@ -106,8 +106,4 @@ venv.bak/
 .mypy_cache/
 
 .gitignore
-.idea/misc.xml
-.idea/modules.xml
-.idea/random-password.iml
-.idea/workspace.xml
 .idea/
