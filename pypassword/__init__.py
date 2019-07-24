@@ -15,3 +15,5 @@ Generate password with length 20 chars
 """
 
 from .pypassword import generate
+
+__all__ = ['generate']
