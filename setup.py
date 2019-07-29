@@ -11,7 +11,7 @@ setuptools.setup(
     description="Simple password generator module",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Pipoline/random-password",
+    url="https://github.com/Pipoline/pypassword",
     packages=setuptools.find_packages(),
     license="MIT",
     include_package_data=True,
