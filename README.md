@@ -2,7 +2,7 @@
 
 This is a simple password generator written in python.
 
-[![Build Status](https://travis-ci.org/Pipoline/random-password.svg?branch=master)](https://travis-ci.org/Pipoline/random-password)
+[![Build Status](https://travis-ci.org/Pipoline/pypassword.svg?branch=master)](https://travis-ci.org/Pipoline/pypassword)
 [![Docker pulls](https://img.shields.io/docker/pulls/pipoline/random-password.svg)](https://hub.docker.com/r/pipoline/random-password)
 [![codecov](https://codecov.io/gh/Pipoline/random-password/branch/master/graph/badge.svg)](https://codecov.io/gh/Pipoline/random-password)
 
