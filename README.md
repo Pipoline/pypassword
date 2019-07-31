@@ -23,19 +23,19 @@ optional arguments:
   
  Get random password with default size(14):
  
-`docker run --rm pipoline/random-password`  
+`docker run --rm pipoline/pypassword`  
 output:  
 `a8xlHjNEQ1sLFj`
 
 When you want to change password length just add -s/--size parameter e.g.:
 
-`docker run --rm pipoline/random-password -s 20`  
+`docker run --rm pipoline/pypassword -s 20`  
 output:  
 `bjMhaBqnw5Y8TvsmNLZV`
 
 Usage with special characters:  
 
-`docker run --rm pipoline/random-password -s 20 -x`  
+`docker run --rm pipoline/pypassword -s 20 -x`  
 output:  
 ```O`v5|!XnV#N@[UXtg%Ei```
 
