@@ -10,8 +10,24 @@ If you want to buy me some coffee :D [![ko-fi](https://www.ko-fi.com/img/donate_
 
 ## Usage
 
-Basic usage:
+### Basic python usage:
 
+```
+>>> import pypassword
+>>> pypassword.generate()
+'uVRf4TE7YLVd'
+```
+
+or
+
+Generate password with length 20 chars
+
+```
+>>> pypassword.generate(20)
+'4QkD741kvSXoMAQo616l'
+```
+
+### Basic docker usage:
 ```
 usage: pypassword.py [-h] [-s SIZE] [-x]
 
