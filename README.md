@@ -27,7 +27,7 @@ Generate password with length 20 chars
 '4QkD741kvSXoMAQo616l'
 ```
 
-### Basic docker usage:
+### Basic cli usage:
 ```
 usage: pypassword.py [-h] [-s SIZE] [-x]
 
@@ -36,7 +36,8 @@ optional arguments:
   -s SIZE, --size SIZE  Random string size
   -x                    When set, use special characters
 ```
-  
+ 
+### Basic docker usage: 
  Get random password with default size(14):
  
 `docker run --rm pipoline/pypassword`  
