@@ -4,8 +4,7 @@ This is a simple password generator written in python.
 
 [![Build Status](https://travis-ci.org/Pipoline/pypassword.svg?branch=master)](https://travis-ci.org/Pipoline/pypassword)
 [![Docker pulls](https://img.shields.io/docker/pulls/pipoline/random-password.svg)](https://hub.docker.com/r/pipoline/random-password)
-[![codecov](https://codecov.io/gh/Pipoline/random-password/branch/master/graph/badge.svg)](https://codecov.io/gh/Pipoline/random-password)
-
+![Codecov](https://img.shields.io/codecov/c/github/pipoline/pypassword)
 If you want to buy me some coffee :D [![ko-fi](https://www.ko-fi.com/img/donate_sm.png)](https://ko-fi.com/G2G8LB08)
 
 ## Usage
