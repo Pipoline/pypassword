@@ -3,9 +3,11 @@
 This is a simple password generator written in python.
 
 [![Build Status](https://travis-ci.org/Pipoline/pypassword.svg?branch=master)](https://travis-ci.org/Pipoline/pypassword)
-[![Docker pulls](https://img.shields.io/docker/pulls/pipoline/random-password.svg)](https://hub.docker.com/r/pipoline/random-password)
+[![Docker pulls](https://img.shields.io/docker/pulls/pipoline/pypassword.svg)](https://hub.docker.com/r/pipoline/pypassword)
 ![Codecov](https://img.shields.io/codecov/c/github/pipoline/pypassword)  
+![PyPI - Downloads](https://img.shields.io/pypi/dm/pypassword)  
 If you want to buy me some coffee :D [![ko-fi](https://www.ko-fi.com/img/donate_sm.png)](https://ko-fi.com/G2G8LB08)
+
 
 ## Usage
 
