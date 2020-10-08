@@ -9,7 +9,7 @@ install:
   - pip install --upgrade pytest
 
 script:
-  - py.test  --cov-report term --cov=pypassword tests pypassword
+  - py.test  --cov-report term --cov=pypassword
 
 after_success:
     - codecov
